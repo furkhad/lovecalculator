@@ -2,7 +2,7 @@ import random
 
 def generate_love_percentage(name1, name2):
     combined_name = (name1 + name2).lower()
-    seed = sum(ord(char) for char in combined_name) % 100
+    seed = sum(ord(char) for char in combined_name) + random.randint(1, 100)
     random.seed(seed)
     return random.randint(0, 100)
 
