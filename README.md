@@ -16,7 +16,7 @@ Run the Script:
 
 bash
 
-    python3 love_calculator.py
+    python3 lovecalculator.py
 
 Follow the Prompts:
 
