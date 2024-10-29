@@ -9,8 +9,8 @@ Features
 Getting Started
 Clone the Repository:
     
-    git clone https://github.com/furkhad/love-calculator.git
-    cd love-calculator
+    git clone https://github.com/furkhad/lovecalculator.git
+    cd lovecalculator
 
 Run the Script:
 
